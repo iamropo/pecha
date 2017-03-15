@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+}
+
+.flex {
+	display: flex;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#file-input {
+	display: none;
+}
+
+#banner {
+	width: 100%;
+	height: 80px;
+}
+
